@@ -38,7 +38,7 @@ A small set of notes on LLM agents: how they're built, how they're configured, w
         ┌─────────────────────────┼──────────────────────────┐
         ▼                         ▼                          ▼
  ┌───────────────┐        ┌───────────────┐         ┌─────────────────┐
- │ architecture  │ ←────→ │ control-plane │         │  formal-model   │
+ │ architecture  │ <────> │ control-plane │         │  formal-model   │
  │  (.md + .svg) │        │  (.md + .svg) │         │      (.md)      │
  └───────┬───────┘        └───────┬───────┘         └────────┬────────┘
          │                        │                          │
