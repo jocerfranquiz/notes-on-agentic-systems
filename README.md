@@ -1,4 +1,4 @@
-# LLM Agents — notes
+# LLM Agents notes
 
 A small set of notes on LLM agents: how they're built, how they're configured, what they formally are, and where to read more.
 
@@ -45,7 +45,7 @@ A small set of notes on LLM agents: how they're built, how they're configured, w
          └────────────┬───────────┴──────────────────────────┘
                       ▼
               ┌───────────────┐         ┌───────────────┐
-              │  study-guide  │ ──────→ │    sources    │
+              │  study-guide  │ ──────> │    sources    │
               │     (.md)     │         │     (.md)     │
               └───────────────┘         └───────────────┘
 ```
