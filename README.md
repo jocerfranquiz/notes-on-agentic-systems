@@ -1,4 +1,4 @@
-# LLM Agents notes
+# Notes On Agentic Systems
 
 A small set of notes on LLM agents: how they're built, how they're configured, what they formally are, and where to read more.
 
